@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Probability, Entropy, and Inference}{3}
+\contentsline {subsection}{\numberline {1.1}Terminologt of inverse probability}{3}
+\contentsline {section}{\numberline {2}An Example Inference Task: Clustering}{5}
+\contentsline {paragraph}{Reason 1}{5}
+\contentsline {paragraph}{Reason 2}{5}
+\contentsline {paragraph}{Reason 3}{5}
+\contentsline {paragraph}{Reason 4}{5}
+\contentsline {subsection}{\numberline {2.1}K-means clustering}{5}
+\contentsline {paragraph}{Initialization.}{6}
+\contentsline {paragraph}{Assignment step.}{6}
+\contentsline {paragraph}{Update step.}{6}
+\contentsline {paragraph}{Repeat the assignment step and update step.}{6}
+\contentsline {paragraph}{\textbf {\leavevmode {\color {red}Personal understanding of K-means algorithm}}}{7}
+\contentsline {subsection}{\numberline {2.2}Soft K-means clustering}{8}
+\contentsline {paragraph}{Assignment step.}{8}
+\contentsline {paragraph}{Updated step.}{8}
+\contentsline {section}{\numberline {3}Exact Inference by Complete Enumeration}{9}
+\contentsline {subsection}{\numberline {3.1}Exact inference for continuous hypothesis spaces}{9}
+\contentsline {paragraph}{A two-parameter model}{9}
+\contentsline {paragraph}{A five-parameter mixture model}{10}
+\contentsline {section}{\numberline {4}Maximum Likelihood and Clustering}{13}
+\contentsline {subsection}{\numberline {4.1}Maximum likelihood for one Gaussian}{13}
+\contentsline {subsection}{\numberline {4.2}Maximum likelihood for a mixture of Gaussians}{14}
+\contentsline {subsection}{\numberline {4.3}Enhancements to soft K-means}{15}
+\contentsline {paragraph}{Assignment step.}{15}
+\contentsline {paragraph}{Update step.}{15}
+\contentsline {subsection}{\numberline {4.4}A fatal flaw of maximum likelihood}{16}
+\contentsline {paragraph}{Overfitting}{16}
